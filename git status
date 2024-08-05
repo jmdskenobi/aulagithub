@@ -1,0 +1,23 @@
+[33mcommit fb06761a184cb3bd7e08c7de6d0c800b5bf9b4fb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Joao Santos <jmds.marcos@gmail.com>
+Date:   Wed Jul 31 18:32:53 2024 -0300
+
+    Udpate blog
+
+[33mcommit e71601f3ba8c20064f9c79cede65c6a8725b96ac[m
+Author: Joao Santos <jmds.marcos@gmail.com>
+Date:   Wed Jul 31 18:30:27 2024 -0300
+
+    Criada pagina de blog
+
+[33mcommit 70261f851afddce7de4095faed63f5d2ae106632[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Joao Santos <jmds.marcos@gmail.com>
+Date:   Tue Jul 30 19:48:49 2024 -0300
+
+    Acrescentado valor das vendas
+
+[33mcommit 3aafc3f45fb278da54a12e12b295f535f60c4be3[m
+Author: Joao Santos <jmds.marcos@gmail.com>
+Date:   Tue Jul 30 19:32:13 2024 -0300
+
+    Criadas paginas index e vendas
